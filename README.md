@@ -1,1 +1,1 @@
-# Huellas-de-gotas-de-arena
+# Cuando las gotas caen sobre una superficie cubierta por una capa de arena, se forman interesantes patrones. Estudie el proceso de formación de esos patrónes. ¿Qué parámetros de las gotas pueden deducirse del cráter resultante?
